@@ -23,14 +23,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book/Criativo sobre travesseiro de grafeno
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gamma
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Pront de comando
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
